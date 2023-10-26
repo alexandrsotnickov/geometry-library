@@ -1,0 +1,12 @@
+C:\Users\Alexandr\Desktop\projects\AS.Geometry\obj\Debug\net7.0\AS.Geometry.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Desktop\projects\AS.Geometry\obj\Debug\net7.0\AS.Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Desktop\projects\AS.Geometry\obj\Debug\net7.0\AS.Geometry.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Desktop\projects\AS.Geometry\obj\Debug\net7.0\AS.Geometry.AssemblyInfo.cs
+C:\Users\Alexandr\Desktop\projects\AS.Geometry\obj\Debug\net7.0\AS.Geometry.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\projects\AS.Geometry\bin\Debug\net7.0\AS.Geometry.deps.json
+C:\Users\Alexandr\Desktop\projects\AS.Geometry\bin\Debug\net7.0\AS.Geometry.dll
+C:\Users\Alexandr\Desktop\projects\AS.Geometry\bin\Debug\net7.0\AS.Geometry.pdb
+C:\Users\Alexandr\Desktop\projects\AS.Geometry\obj\Debug\net7.0\AS.Geometry.dll
+C:\Users\Alexandr\Desktop\projects\AS.Geometry\obj\Debug\net7.0\refint\AS.Geometry.dll
+C:\Users\Alexandr\Desktop\projects\AS.Geometry\obj\Debug\net7.0\AS.Geometry.pdb
+C:\Users\Alexandr\Desktop\projects\AS.Geometry\obj\Debug\net7.0\ref\AS.Geometry.dll
